@@ -1,0 +1,1 @@
+"use strict";(self.rspackChunkjupyterlab_chat_extension=self.rspackChunkjupyterlab_chat_extension||[]).push([[254],{3008(e,o,n){n.r(o),n.d(o,{ICollaborativeContentProvider:()=>a,IGlobalAwareness:()=>r});var t=n(7989);let a=new t.Token("@jupyter/collaboration-extension:ICollaborativeContentProvider"),r=new t.Token("@jupyter/collaboration:IGlobalAwareness")}}]);

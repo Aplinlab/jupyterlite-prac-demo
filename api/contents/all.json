@@ -1,0 +1,57 @@
+{
+  "content": [
+    {
+      "content": null,
+      "created": "2026-11-25T08:11:17.102867Z",
+      "format": null,
+      "hash": null,
+      "hash_algorithm": null,
+      "last_modified": "2026-11-25T07:37:05.334148Z",
+      "mimetype": null,
+      "name": "Demonstrator_class_data.ipynb",
+      "path": "Demonstrator_class_data.ipynb",
+      "size": 1338,
+      "type": "notebook",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2026-11-25T08:11:17.104846Z",
+      "format": null,
+      "hash": null,
+      "hash_algorithm": null,
+      "last_modified": "2026-11-25T07:37:05.333147Z",
+      "mimetype": null,
+      "name": "Membrane_potentials_Table1.ipynb",
+      "path": "Membrane_potentials_Table1.ipynb",
+      "size": 9019,
+      "type": "notebook",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2026-11-25T08:11:17.105845Z",
+      "format": null,
+      "hash": null,
+      "hash_algorithm": null,
+      "last_modified": "2026-11-25T07:49:10.018162Z",
+      "mimetype": "text/x-python",
+      "name": "prac_tools.py",
+      "path": "prac_tools.py",
+      "size": 21331,
+      "type": "file",
+      "writable": true
+    }
+  ],
+  "created": "2026-11-25T08:11:17.101868Z",
+  "format": "json",
+  "hash": null,
+  "hash_algorithm": null,
+  "last_modified": "2026-11-25T08:11:17.107890Z",
+  "mimetype": null,
+  "name": "",
+  "path": "",
+  "size": null,
+  "type": "directory",
+  "writable": true
+}

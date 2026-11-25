@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_jupyter_ai_router=self.webpackChunk_jupyter_ai_router||[]).push([[509],{509:(e,t,r)=>{r.r(t),r.d(t,{default:()=>u});const u={id:"@jupyter-ai/router:plugin",description:"Core routing layer of Jupyter AI",autoStart:!0,activate:e=>{console.log("JupyterLab extension @jupyter-ai/router is activated!")}}}}]);

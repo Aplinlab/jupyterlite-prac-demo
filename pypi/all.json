@@ -1,0 +1,80 @@
+{
+  "comm": {
+    "releases": {
+      "0.2.3": [
+        {
+          "comment_text": "",
+          "digests": {
+            "md5": "cb7196837f54f6a62586730c4460b2ce",
+            "sha256": "c615d91d75f7f04f095b30d1c1711babd43bdc6419c1be9886a85f2f4e489417"
+          },
+          "downloads": -1,
+          "filename": "comm-0.2.3-py3-none-any.whl",
+          "has_sig": false,
+          "md5_digest": "cb7196837f54f6a62586730c4460b2ce",
+          "packagetype": "bdist_wheel",
+          "python_version": "py3",
+          "requires_python": ">=3.8",
+          "size": 7294,
+          "upload_time": "2026-11-25T06:45:28.062837Z",
+          "upload_time_iso_8601": "2026-11-25T06:45:28.062837Z",
+          "url": "./comm-0.2.3-py3-none-any.whl",
+          "yanked": false,
+          "yanked_reason": null
+        }
+      ]
+    }
+  },
+  "ipywidgets": {
+    "releases": {
+      "8.1.9": [
+        {
+          "comment_text": "",
+          "digests": {
+            "md5": "a4c91a97cc22a8f413078921e0d8c2ad",
+            "sha256": "f2b8cbcaae10252b809fbe4d7470db75c09b769a32cbf816d20e5ca6d3c5a79d"
+          },
+          "downloads": -1,
+          "filename": "ipywidgets-8.1.9-py3-none-any.whl",
+          "has_sig": false,
+          "md5_digest": "a4c91a97cc22a8f413078921e0d8c2ad",
+          "packagetype": "bdist_wheel",
+          "python_version": "py3",
+          "requires_python": ">=3.7",
+          "size": 140101,
+          "upload_time": "2026-11-25T06:45:28.060864Z",
+          "upload_time_iso_8601": "2026-11-25T06:45:28.060864Z",
+          "url": "./ipywidgets-8.1.9-py3-none-any.whl",
+          "yanked": false,
+          "yanked_reason": null
+        }
+      ]
+    }
+  },
+  "jupyterlab-widgets": {
+    "releases": {
+      "3.0.17": [
+        {
+          "comment_text": "",
+          "digests": {
+            "md5": "49e9e5a46b2b36675e93d44667e26cf2",
+            "sha256": "40ac1e9955acf116c4d995d9bfa082d86ad9ec6d91c4f134827cf5e0a5eb75e0"
+          },
+          "downloads": -1,
+          "filename": "jupyterlab_widgets-3.0.17-py3-none-any.whl",
+          "has_sig": false,
+          "md5_digest": "49e9e5a46b2b36675e93d44667e26cf2",
+          "packagetype": "bdist_wheel",
+          "python_version": "py3",
+          "requires_python": ">=3.7",
+          "size": 217292,
+          "upload_time": "2026-11-25T06:45:28.061864Z",
+          "upload_time_iso_8601": "2026-11-25T06:45:28.061864Z",
+          "url": "./jupyterlab_widgets-3.0.17-py3-none-any.whl",
+          "yanked": false,
+          "yanked_reason": null
+        }
+      ]
+    }
+  }
+}
